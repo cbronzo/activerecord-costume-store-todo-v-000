@@ -3,4 +3,4 @@
 class CreateCostumes < ActiveRecord::Migration[5.1]
   
   def change
-    create_
+    create_table :costumes 
